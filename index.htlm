@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Telecom Tools & Calculators | Paperless Mission - Vision 2030</title>
+<meta name="description" content="Free AI-Powered Telecom Calculators for Telecom Industry and Students - WDM, GPON, Erlang, RF Planning, Satellite, S-Band, 6G Research.">
+<style>
+body{font-family:'Segoe UI',Arial,sans-serif;margin:0;background:#f8fbff;color:#0f172a}
+.header{background:#0b2e5c;color:#fff;padding:20px;text-align:center}
+.header h1{margin:0;font-size:28px}
+.header p{margin:5px 0 0;opacity:.9}
+.rule-box{background:#ffcc00;color:#0b2e5c;padding:15px;text-align:center;font-weight:800;font-size:18px;letter-spacing:1px;border-bottom:4px solid #0b2e5c}
+.container{max-width:1100px;margin:auto;padding:20px}
+.hero{background:#fff;border-radius:16px;padding:25px;box-shadow:0 4px 20px rgba(0,0,0,.08);margin-bottom:25px;text-align:center}
+.hero h2{color:#0b2e5c;margin-top:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.card{background:#fff;border-radius:16px;padding:20px;box-shadow:0 4px 15px rgba(0,0,0,.06);border-left:6px solid #0b2e5c;transition:.3s}
+.card:hover{transform:translateY(-5px);box-shadow:0 8px 25px rgba(0,0,0,.12)}
+.card h3{margin:0 0 10px;color:#0b2e5c;font-size:18px}
+.card p{font-size:14px;line-height:1.6;color:#334155}
+.btn{display:inline-block;margin-top:12px;background:#0b2e5c;color:#fff;padding:10px 18px;border-radius:8px;text-decoration:none;font-weight:700;font-size:14px}
+.btn:hover{background:#123e7a}
+.tag{display:inline-block;background:#e0f2fe;color:#0b2e5c;padding:3px 8px;border-radius:20px;font-size:11px;font-weight:700;margin-bottom:8px}
+.footer{background:#0b2e5c;color:#fff;text-align:center;padding:20px;margin-top:30px}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1>📡 Telecom Tools & Calculators Hub</h1>
+<p>Paperless Mission | Jawad Ul Manzoor Foundation | Jeddah, KSA | Vision 2030</p>
+</div>
+
+<div class="rule-box">⚡ OUR ONE CORE RULE: SOLVE → RESET → TRY AGAIN ⚡</div>
+
+<div class="container">
+<div class="hero">
+<h2>Free for Telecom Students & Industry Engineers</h2>
+<p>All tools are <b>100% Free, No Login, Mobile Friendly</b>. We convert complex ITU-T & 3GPP formulas into one-click calculators. Just <b>Solve</b> your problem, <b>Reset</b> to clear, and <b>Try Again</b> with new values to master optimization.</p>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<span class="tag">OPTICAL FIBER</span>
+<h3>1. ITU-T G.694.1 WDM Channel Spacing Calculator</h3>
+<p>Calculate exact DWDM / CWDM wavelength & frequency for 12.5 GHz to 100 GHz grid. Must-have for Optical Transmission & Backbone design.</p>
+<a class="btn" href="https://telecomtoolsforsaudivision2030.blogspot.com/2026/09/itu-t-g6941-wdm-channel-spacing.html?m=1" target="_blank">Open Calculator →</a>
+</div>
+
+<div class="card">
+<span class="tag">FTTH / GPON</span>
+<h3>2. GPON Optical Splitter Loss Calculator - Vision 2030</h3>
+<p>Instant Insertion Loss & Power Budget for 1:2 to 1:128 splitters. Essential for FTTH, FTTx & ODN planning.</p>
+<a class="btn" href="https://telecomtoolsforsaudivision2030.blogspot.com/2026/08/202605gpon-optical-splitter-loss-calculator-vision-2030.html.html?m=1" target="_blank">Open Calculator →</a>
+</div>
+
+<div class="card">
+<span class="tag">ANTENNA DESIGN</span>
+<h3>3. AI Voice S-Band Antenna Calculator</h3>
+<p>Design S-Band (2-4 GHz) antennas for Satellite & 5G. Calculate gain, wavelength & dimensions with AI voice input.</p>
+<a class="btn" href="https://telecomtoolsforsaudivision2030.blogspot.com/2026/08/ai-voice-s-band-antenna-calculator-for.html?m=1" target="_blank">Open Calculator →</a>
+</div>
+
+<div class="card">
+<span class="tag">TRAFFIC ENGINEERING</span>
+<h3>4. Erlang B vs Erlang C Capacity Planner</h3>
+<p>Compare Blocking (Erlang B) vs Queuing (Erlang C) for Call Centers & Cellular Traffic. Critical for Core Network.</p>
+<a class="btn" href="https://telecomtoolsforsaudivision2030.blogspot.com/2026/05/erlang-b-vs-erlang-c-call-center-capacity-planner.html?m=1" target="_blank">Open Planner →</a>
+</div>
+
+<div class="card">
+<span class="tag">RF PLANNING</span>
+<h3>5. Advanced RF Planning Report Generator</h3>
+<p>Generate professional RF report with Project ID, Azimuth, Tilt & Coverage. Used by RF Drive Test & Optimization Teams.</p>
+<a class="btn" href="https://telecomtoolsforsaudivision2030.blogspot.com/2026/07/advanced-rf-planning-report-project-id_0541465333.html?m=1" target="_blank">Generate Report →</a>
+</div>
+
+<div class="card">
+<span class="tag">SATELLITE COMM</span>
+<h3>6. Satellite Antenna Efficiency & Peak Gain Calculator</h3>
+<p>Calculate Aperture Efficiency, Peak Gain (dBi) & Beamwidth for Parabolic / VSAT / Earth Station antennas.</p>
+<a class="btn" href="https://telecomtoolsforsaudivision2030.blogspot.com/2026/07/satellite-antenna-efficiency-peak-gain-calculator.html?m=1" target="_blank">Open Calculator →</a>
+</div>
+
+<div class="card" style="border-left-color:#ffcc00">
+<span class="tag">6G RESEARCH</span>
+<h3>7. Future 6G Research Hub - Saudi Vision 2030</h3>
+<p>Explore Terahertz, AI-Native Networks, RIS & our 6G roadmap for KSA. Best for Final Year Projects & Research Papers.</p>
+<a class="btn" style="background:#ffcc00;color:#0b2e5c" href="https://telecomtoolsforsaudivision2030.blogspot.com/2026/05/future-6g-research-saudi-arabia-vision-2030.html?m=1" target="_blank">Read Research →</a>
+</div>
+
+</div>
+
+<div class="hero" style="margin-top:30px">
+<h2>How to Use? 3-Step Method</h2>
+<p><b>1. SOLVE:</b> Enter values → Get Result &nbsp; | &nbsp; <b>2. RESET:</b> Click Reset for new scenario &nbsp; | &nbsp; <b>3. TRY AGAIN:</b> Test different values to learn optimization.</p>
+<p>Share this hub in your college WhatsApp group. Let's make education paperless.</p>
+<a class="btn" href="https://jawadulmanzoorfoundation.github.io/paperless-mission/">← Back to Main Hub</a>
+</div>
+
+</div>
+
+<div class="footer">
+<p>© Paperless Mission | Founder: Er. Fareheen & Er. Jawad Ul Manzoor | Jeddah, KSA<br>Built for Telecom Students & Engineers | #Vision2030 #FreeEducation</p>
+</div>
+
+</body>
+</html>
